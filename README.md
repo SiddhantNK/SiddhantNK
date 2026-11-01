@@ -2,7 +2,7 @@
 
 Welcome .
 
-I am a Sophomore CS student currently working on and learing through project across various domains <br>
+I am a Sophomore CS student currently learing through project across various domains <br>
 ^_^<br>
 ### Current Projects
 
